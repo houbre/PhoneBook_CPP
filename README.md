@@ -8,7 +8,7 @@ $ g++ main.cpp phone.cpp phone_record.hpp
 $ ./a.out
 
 
-if a csv file exists and contains records, load those record into the struct phonebook
+if a csv file exists and contains records, load those records into the struct phonebook
 
 
 (1) -> add a record to the phonebook
